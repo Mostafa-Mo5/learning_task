@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/tofym/AndroidStudioProjects/learning_task/app/src/main/res/drawable/button_big.xml" value="0.1945" />
+        <entry key="..\:/Users/tofym/AndroidStudioProjects/learning_task/app/src/main/res/drawable/circle.xml" value="0.159" />
+        <entry key="..\:/Users/tofym/AndroidStudioProjects/learning_task/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.138" />
+        <entry key="..\:/Users/tofym/AndroidStudioProjects/learning_task/app/src/main/res/drawable/ic_cup_custom.xml" value="0.194" />
+        <entry key="..\:/Users/tofym/AndroidStudioProjects/learning_task/app/src/main/res/drawable/ic_cup_grand.xml" value="0.194" />
+        <entry key="..\:/Users/tofym/AndroidStudioProjects/learning_task/app/src/main/res/drawable/ic_cup_tall.xml" value="0.194" />
+        <entry key="..\:/Users/tofym/AndroidStudioProjects/learning_task/app/src/main/res/drawable/ic_cup_venti.xml" value="0.194" />
+        <entry key="..\:/Users/tofym/AndroidStudioProjects/learning_task/app/src/main/res/font/fonts.xml" value="0.18573237653018151" />
+        <entry key="..\:/Users/tofym/AndroidStudioProjects/learning_task/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

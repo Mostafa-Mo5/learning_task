@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">learning_task</string>
+    <string name="_1">1</string>
+    <string name="_3">3</string>
+    <string name="_2">2</string>
+    <string name="sub">-</string>
+    <string name="sum">+</string>
+    <string name="details">Details</string>
+    <string name="frappuccino">Frappuccino</string>
+    <string name="_m1">1</string>
+    <string name="_16_fi_oz">16 FI Oz</string>
+    <string name="_12_fi_oz">12 FI Oz</string>
+    <string name="grande">Grande</string>
+    <string name="venti">Venti</string>
+    <string name="custom">Custom</string>
+    <string name="dd">.</string>
+    <string name="best_sales">Best sales</string>
+    <string name="_30_00">$30.00</string>
+    <string name="caramel">Caramel</string>
+    <string name="size_options">Size Options</string>
+    <string name="fi_oz">__FI Oz</string>
+</resources>
